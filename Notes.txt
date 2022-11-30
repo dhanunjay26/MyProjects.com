@@ -1,0 +1,13 @@
+
+If you want your content to be placed in the middle, the available options are:
+1. display: flex, justify-content: center
+2. position: absolute
+
+3.  IMPORTANT, wrap the entire content in a div.wrapper
+    In css, use a margin on wrapper like margin: 100px(top&bottom) auto(left&right) max-width: 400px
+
+
+
+
+todolist 2.0:
+1.
